@@ -1,0 +1,9 @@
+{
+  "name": "very-big",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/very-big",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project very-big --web",
+  "targets": {}
+}

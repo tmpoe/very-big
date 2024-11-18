@@ -1,0 +1,9 @@
+{
+  "name": "very-big-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/very-big-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["very-big"],
+  "// targets": "to see all targets run: nx show project very-big-e2e --web",
+  "targets": {}
+}
